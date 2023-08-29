@@ -1,4 +1,4 @@
-Sherlock Holmes Novel Generator
+#Sherlock Holmes Novel Generator
 
 I made this for a class project. It uses a Tri-Gram Markov model trained on three Sherlock Holmes novels to generate a new novel.
 
