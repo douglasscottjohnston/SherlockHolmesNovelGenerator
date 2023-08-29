@@ -1,4 +1,5 @@
 # Sherlock Holmes Novel Generator
+Generates a Sherlock Holmes novel based on The Sign of The Four, A Study in Scarlet, and The Valley of Fear
 
 ## Description
 I made this for a class project. It uses a Tri-Gram Markov model trained on three Sherlock Holmes novels to generate a new novel.  For more information, each Python file contains detailed comments.
